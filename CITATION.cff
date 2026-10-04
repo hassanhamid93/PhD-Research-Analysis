@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release used in the doctoral thesis."
+title: "Python Analysis for The Efficacy of a Cognitive Strategy-Based Pedagogical Intervention on Academic Learning Gain: A Randomized Controlled Trial and Predictive Modeling Approach"
+type: software
+version: "1.0.0"
+date-released: "2026-10-04"
+authors:
+  - family-names: "Soliman"
+    given-names: "Hassan Abdelhamid Hassan"
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+abstract: "Python/Jupyter analytical workflow supporting the doctoral thesis, including working-memory measures, learning-gain analysis, inferential statistics, moderated regression, diagnostics, and supplementary machine-learning classification."
