@@ -7,5 +7,5 @@ date-released: "2026-10-04"
 authors:
   - family-names: "Soliman"
     given-names: "Hassan Abdelhamid Hassan"
-repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+repository-code: "https://github.com/hassanhamid93/PhD-Research-Analysis"
 abstract: "Python/Jupyter analytical workflow supporting the doctoral thesis, including working-memory measures, learning-gain analysis, inferential statistics, moderated regression, diagnostics, and supplementary machine-learning classification."
